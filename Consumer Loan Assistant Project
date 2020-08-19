@@ -1,6 +1,6 @@
 package loanassistant;
-import javax.swing.*;
-import java.awt.*;
+import javax.awt.*;
+import java.swing.*;
 import java.awt.event.*;
 import java.text.*;
 public class LoanAssistant extends JFrame
